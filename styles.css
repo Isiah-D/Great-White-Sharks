@@ -4,5 +4,8 @@ h1 {font-family: Arial;
 }
 
 h2 {font-family: Arial;
-    font-style:italic
+    font-style:italic;
+}
+#Media {
+    padding: 25px;
 }
